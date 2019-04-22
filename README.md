@@ -14,7 +14,7 @@ Also check out our [announcements page](./docs/announcements) for latest changes
 
 Some of the best ways to contribute are to try things out, file issues, join in design conversations, and make pull-requests.
 
-* [Download our latest docker images](./docs/LatestImages.md)
+* [Download our latest docker images](./docs/Images.md)
 * Experiencing any problems? Read our anouncements page to follow some [latest changes](./docs/announcements)
 * Check out the [contributing](CONTRIBUTING.md) page to see the best places to log issues and start discussions.
 
