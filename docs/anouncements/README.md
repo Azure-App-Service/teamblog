@@ -1,7 +1,7 @@
 Announcements
 =============
 
-This repo is for team **announcements** only. To file a **bug** or start a **discussion**, please find the appropriate repo in https://github.com/Azure-App-Service create a new issue. For general issue discussions please go to https://github.com/Azure-App-Service/TeamBlog/issues and create a new issue.
+This page is for team **announcements**. To file a **bug** or start a **discussion**, please find the appropriate repo in https://github.com/Azure-App-Service create a new issue. For general issue discussions please go to https://github.com/Azure-App-Service/TeamBlog/issues and create a new issue.
 
 ---
 
