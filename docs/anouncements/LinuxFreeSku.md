@@ -12,10 +12,12 @@ Each Azure Subscription can create a single free tier app service plan. Within t
 
 ## Quotas
 
-Linux Free Tier App Service Plans are subject to the following daily quotas:
+Linux Free Tier App Service Plans are subject to the following daily quotas/limitations:
 
 - 60 minutes of CPU Time 
 - 1 GB Memory Usage
+- 180 MB of Data Out
+- No WebSocket connections to the app
 
 If your App Service Plan exceeds these quotas, for all apps in the plan you will see an HTTP Status Code 429 indicating your app is stopped.
 
