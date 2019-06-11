@@ -21,6 +21,8 @@ Ruby    | 2.3.3 <br /> 2.3.8 <br /> 2.4.5 <br /> 2.5.5 <br /> 2.6.2 |  appsvc/ru
 
 Patches (0.0.**x**) are applied in the next monthly milestone after they are released upstream.
 
+We are currently in the process of upgrading all our runtime images to use Oryx Images as base images. More information about these base images can be found at [Microsoft Oryx GitHub Page](https://github.com/microsoft/Oryx).
+
 ## Build and run an app locally
 
 To build and run an app locally, follow these approximate steps. An example script follows.
