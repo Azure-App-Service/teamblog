@@ -8,14 +8,14 @@ This repository contains all open-source libraries that Azure App Service on Lin
 
 Follow the [Quick Start](https://docs.microsoft.com/en-us/azure/app-service/containers/app-service-linux-intro#next-steps) instructions in the [Azure App Service for Linux docs](https://docs.microsoft.com/en-us/azure/app-service/containers/app-service-linux-intro).
 
-Also check out our [announcements page](./docs/announcements) for latest changes/features coming to our Linux Platform.
+Also check out our [announcements page](https://github.com/Azure-App-Service/teamblog/issues?q=is%3Aissue+is%3Aopen+label%3Aanouncement) for latest changes/features coming to our Linux Platform.
 
 ## How to Engage, Contribute, and Give Feedback
 
 Some of the best ways to contribute are to try things out, file issues, join in design conversations, and make pull-requests.
 
-* [Download our latest docker images](./docs/Images.md)
-* Experiencing any problems? Read our anouncements page to follow some [latest changes](./docs/announcements)
+* [Download our stable runtime images](./docs/Images.md)
+* Experiencing any problems? Read our anouncements page to follow some [latest changes](https://github.com/Azure-App-Service/teamblog/issues?q=is%3Aissue+is%3Aopen+label%3Aanouncement)
 * Check out the [contributing](CONTRIBUTING.md) page to see the best places to log issues and start discussions.
 
 ## Reporting security issues and bugs
